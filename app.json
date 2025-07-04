@@ -2,6 +2,18 @@
   "expo": {
     "name": "react-native-goaltracker",
     "slug": "react-native-goaltracker",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+        "edgeToEdgeEnabled": true,
+        "adaptativeIcon": {
+            "package": "com.alfredopetri.goaltracker",
+            "foregroundImage": "./assets/adaptative-icon.png",
+            "backgroundColor": "#3D44CD"
+        }
+    },
+    "ios": {
+        "bundleIdentifier": "com.alfredopetri.goaltracker",
+        "icon": "./assets/ios-icon.png"
+    }
   }
 }
