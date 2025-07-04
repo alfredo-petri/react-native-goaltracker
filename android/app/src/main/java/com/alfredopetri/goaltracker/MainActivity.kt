@@ -1,4 +1,4 @@
-package com.reactnativegoaltracker
+package com.alfredopetri.goaltracker
 
 import android.os.Build
 import android.os.Bundle

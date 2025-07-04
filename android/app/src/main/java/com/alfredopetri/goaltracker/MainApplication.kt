@@ -1,4 +1,4 @@
-package com.reactnativegoaltracker
+package com.alfredopetri.goaltracker
 
 import android.app.Application
 import android.content.res.Configuration
